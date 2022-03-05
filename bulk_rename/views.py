@@ -16,6 +16,7 @@ FILTERS = ";;".join(
         "Text Files (*.txt)",
         "Python Files (*.py)",
         "Video Files (*.mp4)",
+        "Video Files (*.mov)",
         "Audio Files (*.mp3)"
     )
 )
